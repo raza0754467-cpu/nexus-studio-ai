@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "https://nexus-studio-dcc5e.containers.snapdeploy.app/$1"
-    }
-  ]
-}
