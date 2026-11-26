@@ -1,8 +1,0 @@
-[build]
-  publish = "."
-
-[[redirects]]
-  from = "/*"
-  to = "https://nexus-studio-dcc5e.containers.snapdeploy.app/:splat"
-  status = 200
-  force = true
